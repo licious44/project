@@ -1,0 +1,7 @@
+import numpy as np
+
+# Assume X_test is a 4D array with shape (num_samples, height, width, channels)
+X_test = ...
+
+# Save X_test as a NumPy array
+np.save('X_test.npy', X_test)

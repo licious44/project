@@ -1,0 +1,7 @@
+import numpy as np
+
+# Assume y_test is a 1D array with shape (num_samples,)
+y_test = ...
+
+# Save y_test as a NumPy array
+np.save('y_test.npy', y_test)
