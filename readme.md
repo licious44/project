@@ -15,7 +15,7 @@ root/
     
 	
 	
-The data directory contains the preprocessed data that you'll use to train and test your model. The model.py file contains the Python code for building, training, and testing the deep learning model. The omnetpp directory contains the OMNeT++ simulation files, including the omnetpp.ini configuration file and the simulation.ned network topology file.
+The data directory contains the preprocessed data that you'll use to train and test the model. The model.py file contains the Python code for building, training, and testing the deep learning model. The omnetpp directory contains the OMNeT++ simulation files, including the omnetpp.ini configuration file and the simulation.ned network topology file.
 	
 	
 # X_train.npy
